@@ -278,9 +278,15 @@ $font-size-lg:                $font-size-base * 1.25 !default;
 $font-size-sm:                $font-size-base * .875 !default;
 
 $font-weight-lighter:         lighter !default;
+$font-weight-thin:            100 !default;
+$font-weight-extra-light:     200 !default;
 $font-weight-light:           300 !default;
-$font-weight-normal:          400 !default;
+$font-weight-regular:         400 !default;
+$font-weight-medium:          500 !default;
+$font-weight-semi-bold:       600 !default;
 $font-weight-bold:            700 !default;
+$font-weight-extra-bold:      800 !default;
+$font-weight-black:           900 !default;
 $font-weight-bolder:          bolder !default;
 
 $font-weight-base:            $font-weight-normal !default;
